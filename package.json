@@ -1,5 +1,9 @@
 {
-another type of mine!
+<<<<<<< HEAD
+some new theams! and me
+=======
+some new theams! and me
+>>>>>>> branch1
   "name": "airbnb-style",
   "version": "2.0.0",
   "description": "A mostly reasonable approach to JavaScript.",
